@@ -19,7 +19,7 @@ import { CommonModule } from '@angular/common';
   ]
 })
 export class ToggleComponent {
-  open = signal(false);
+  open = signal(true);
 
   toggle(state: boolean) {
     this.open.set(!state);
