@@ -15,7 +15,7 @@ a {
 }
 
 .header {
-  background-color: #335d92;
+  background-color: red;
   position: fixed;
   z-index: 999;
   height: 55px;
@@ -150,7 +150,7 @@ a {
 }
 
 .news-item .score {
-  color: #335d92;
+  color: red;
   font-size: 1.1em;
   font-weight: 700;
   position: absolute;
@@ -172,7 +172,7 @@ a {
 }
 
 .news-item .host a:hover, .news-item .meta a:hover {
-  color: #335d92;
+  color: red;
 }
 
 .item-view-header {
@@ -254,7 +254,7 @@ a {
 }
 
 .comment .text a:hover {
-  color: #335d92;
+  color: red;
 }
 
 .comment .text pre {
